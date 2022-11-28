@@ -30,4 +30,32 @@ To avoid gaps in your UX, remember to account for these differences while buildi
 -------
 
 [Testing for Fragmentation: The perfect cross-device test strategy for mobile](https://www.browserstack.com/blog/perfect-test-strategy-for-mobile/)
+
 [Testing for Fragmentation: Understanding Browser, OS and Device Fragmentation](https://www.browserstack.com/blog/understanding-browser-os-and-device-fragmentation/)
+
+-------
+
+
+### Mobile Platform
+
+Worldwide Statistics
+
+Last 12 Months (Nov 2021 - Nov 2022)
+
+[Vendor Market Share](https://gs.statcounter.com/vendor-market-share/mobile/worldwide/#monthly-202111-202211-bar)
+![StatCounter-vendor-ww-monthly-202111-202211-bar](https://user-images.githubusercontent.com/70295997/204199695-51654fef-91ce-4d63-a7fa-68cf45634844.png)
+![image](https://user-images.githubusercontent.com/70295997/204201991-c33d0ce7-0947-40f2-86c4-d3f716e4bfab.png)
+
+
+[Operating System Market Share](https://gs.statcounter.com/os-market-share/mobile/worldwide#monthly-202111-202211-bar)
+![StatCounter-os_combined-ww-monthly-202111-202211-bar](https://user-images.githubusercontent.com/70295997/204199891-4d724fd3-7d56-488b-82e4-cb6fc9b7aa22.png)
+![image](https://user-images.githubusercontent.com/70295997/204201606-9f310df0-54a4-41e8-b596-86d2745b861d.png)
+
+
+[Screen Resolution Stats](https://gs.statcounter.com/screen-resolution-stats/mobile/worldwide#monthly-202111-202211-bar)
+![StatCounter-resolution-ww-monthly-202111-202211-bar](https://user-images.githubusercontent.com/70295997/204200155-0bb5c104-9911-4976-b485-4a8c2181aac6.png)
+![image](https://user-images.githubusercontent.com/70295997/204201195-ee0e190a-fa31-4383-ba48-bb494dcefc6c.png)
+
+
+
+
