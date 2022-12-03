@@ -1,5 +1,9 @@
 # Mobile fragmentation
 
+![image](https://user-images.githubusercontent.com/70295997/205458610-42c374f3-d427-470a-aae3-90e0013cb58c.png)
+
+Source: [Guide: Browser and Device Fragmentation](https://github.com/lana-20/mobile-fragmentation/blob/main/Guide%2B-%2BBrowser%2Band%2BDevice%2BFragmentation.pdf)
+_____
 
 [Hybrid, Native, and PWAs: Testing your mobile apps for compatibility](https://www.browserstack.com/blog/hybrid-native-pwas-testing-your-mobile-apps-for-compatibility/)
 
@@ -34,6 +38,8 @@ To avoid gaps in your UX, remember to account for these differences while buildi
 [Testing for Fragmentation: Understanding Browser, OS and Device Fragmentation](https://www.browserstack.com/blog/understanding-browser-os-and-device-fragmentation/)
 
 [What is Android fragmentation, and can Google ever fix it?](https://www.digitaltrends.com/mobile/what-is-android-fragmentation-and-can-google-ever-fix-it/)
+
+[BrowserStack Fragmentation Blog](https://www.browserstack.com/blog/tag/fragmentation-testing/)
 
 -------
 
