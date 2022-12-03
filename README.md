@@ -33,6 +33,8 @@ To avoid gaps in your UX, remember to account for these differences while buildi
 
 [Testing for Fragmentation: Understanding Browser, OS and Device Fragmentation](https://www.browserstack.com/blog/understanding-browser-os-and-device-fragmentation/)
 
+[What is Android fragmentation, and can Google ever fix it?](https://www.digitaltrends.com/mobile/what-is-android-fragmentation-and-can-google-ever-fix-it/)
+
 -------
 
 
