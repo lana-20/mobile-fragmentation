@@ -52,7 +52,7 @@ To avoid gaps in your UX, remember to account for these differences while buildi
 
 Worldwide Statistics
 
-Last 12 Months (Nov 2021 - Nov 2022)
+Last 12 Months (Nov 2021 - Nov 2022) | [2022 Stats updated on 12/31/2022](https://github.com/lana-20/mobile-distro-global-2022)
 
 [Vendor Market Share](https://gs.statcounter.com/vendor-market-share/mobile/worldwide/#monthly-202111-202211-bar)
 ![StatCounter-vendor-ww-monthly-202111-202211-bar](https://user-images.githubusercontent.com/70295997/204199695-51654fef-91ce-4d63-a7fa-68cf45634844.png)
