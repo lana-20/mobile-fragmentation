@@ -7,6 +7,12 @@ The [Android operating system (OS)](https://github.com/lana-20/android-distro) i
 ![image](https://user-images.githubusercontent.com/70295997/205458610-42c374f3-d427-470a-aae3-90e0013cb58c.png)
 
 Source: [Guide: Browser and Device Fragmentation](https://github.com/lana-20/mobile-fragmentation/blob/main/Guide%2B-%2BBrowser%2Band%2BDevice%2BFragmentation.pdf)
+
+There are 24,000 distinct Android configurations in the wild.
+
+<img src="https://user-images.githubusercontent.com/70295997/211403279-bbe64c3d-9796-4b68-84df-5748db3f7dc5.png" width=800>
+
+Source: [Report Finds 24K Distinct Android Devices](https://www.pcmag.com/news/report-finds-24k-distinct-android-devices)
 _____
 
 [Hybrid, Native, and PWAs: Testing your mobile apps for compatibility](https://www.browserstack.com/blog/hybrid-native-pwas-testing-your-mobile-apps-for-compatibility/)
