@@ -2,7 +2,7 @@
 
 Mobile fragmentation refers to the diverse range of hardware and software configurations that exist among mobile devices, such as smartphones and tablets. This can include differences in screen size, processor type and speed, amount of memory, and version of the operating system. Mobile fragmentation can cause [interoperability](https://github.com/lana-20/interoperability) issues. For example, it can make it difficult for developers to create apps that work consistently across all devices, and can also pose challenges for users in terms of accessing certain features or finding compatible apps. In general, the more fragmented a mobile ecosystem is, the more difficult it is for developers to create apps and for users to have a consistent experience across devices.
 
-The [Android operating system (OS)](https://github.com/lana-20/android-distro) is vast, with different screen sizes, resolutions, and capabilities ranging across versions and devices. The list of versions which the system supports (including updates) is much bigger than that of iOS.
+The [Android operating system (OS)](https://github.com/lana-20/android-distro) is vast, with different screen sizes, resolutions, and capabilities ranging across versions and devices. The list of versions which the system supports (including updates) is much bigger than that of iOS. In addition to vanilla Android configs on various devices, testers and developers also deal with [skins](https://www.androidauthority.com/android-skins-945375/), such as Samsung's One UI, Google’s Pixel UI, OnePlus’ Oxygen OS, Motorola’s My UX and Xiaomi MIUI.
 
 ![image](https://user-images.githubusercontent.com/70295997/205458610-42c374f3-d427-470a-aae3-90e0013cb58c.png)
 
@@ -50,6 +50,8 @@ To avoid gaps in your UX, remember to account for these differences while buildi
 [What is Android fragmentation, and can Google ever fix it?](https://www.digitaltrends.com/mobile/what-is-android-fragmentation-and-can-google-ever-fix-it/)
 
 [BrowserStack Fragmentation Blog](https://www.browserstack.com/blog/tag/fragmentation-testing/)
+
+[Don't be shy, Android skins. Flaunt your best features.](https://www.androidauthority.com/android-skins-commentary-3093771/)
 
 -------
 
