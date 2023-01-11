@@ -29,7 +29,7 @@ Use the app analytics with the [Test on the Right Devices](https://www.browserst
 
 - Different mobile screen sizes and resolutions (especially the outliers, like iPhone X).
 - Flaky network conditions, particularly for apps with offline access and Lite mobile versions.
-- Different Android and iOS versions, based on market share (and crash reports). This includes testing on Android OEMs’ custom skins, like OneUI (OnePlus), MiUI (Xiaomi), EMUI (Huawei) and so on.
+- Different Android and iOS versions, based on market share (and crash reports). This includes testing on Android OEMs’ custom skins, like OneUI (Samsung), MiUI (Xiaomi), EMUI (Huawei) and so on.
 
 Additionally, since different app types will be affected to varying degrees by fragmentation, remember to:
 
@@ -50,6 +50,8 @@ To avoid gaps in your UX, remember to account for these differences while buildi
 [What is Android fragmentation, and can Google ever fix it?](https://www.digitaltrends.com/mobile/what-is-android-fragmentation-and-can-google-ever-fix-it/)
 
 [BrowserStack Fragmentation Blog](https://www.browserstack.com/blog/tag/fragmentation-testing/)
+
+[The many flavors of Android: A look at the major Android skins](https://www.androidauthority.com/android-skins-945375/)
 
 [Don't be shy, Android skins. Flaunt your best features.](https://www.androidauthority.com/android-skins-commentary-3093771/)
 
