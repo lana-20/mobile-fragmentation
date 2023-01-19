@@ -1,4 +1,6 @@
-# Mobile fragmentation
+# <img src="https://user-images.githubusercontent.com/70295997/213381298-2f724904-0bf5-47f4-a88d-d61272cb1435.png" width=40> Mobile fragmentation
+
+<img width="400" src="https://user-images.githubusercontent.com/70295997/213381929-2f725045-80de-4118-8717-b60dbd79e3cf.png">
 
 Mobile fragmentation refers to the diverse range of hardware and software configurations that exist among mobile devices, such as smartphones and tablets. This can include differences in screen size, processor type and speed, amount of memory, and version of the operating system. Mobile fragmentation can cause [interoperability](https://github.com/lana-20/interoperability) issues. For example, it can make it difficult for developers to create apps that work consistently across all devices, and can also pose challenges for users in terms of accessing certain features or finding compatible apps. In general, the more fragmented a mobile ecosystem is, the more difficult it is for developers to create apps and for users to have a consistent experience across devices.
 
