@@ -80,6 +80,9 @@ Last 12 Months (Nov 2021 - Nov 2022) | [2022 Stats updated on 12/31/2022](https:
 ![StatCounter-resolution-ww-monthly-202111-202211-bar](https://user-images.githubusercontent.com/70295997/204200155-0bb5c104-9911-4976-b485-4a8c2181aac6.png)
 ![image](https://user-images.githubusercontent.com/70295997/204201195-ee0e190a-fa31-4383-ba48-bb494dcefc6c.png)
 
+See also the [08/01/2022 Mobile OS Market Share](https://miro.com/app/board/uXjVOicYjsk=/) diagram:
+
+<img width="400" src="https://user-images.githubusercontent.com/70295997/213385857-67361543-4db5-48f4-8246-e617fc3a42b8.png">
 
 
 
